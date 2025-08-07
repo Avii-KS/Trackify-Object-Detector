@@ -11,10 +11,6 @@ A modern, mobile-friendly web app for real-time object detection, heatmap analyt
 - Export detection history (CSV) and heatmap (PNG)
 - Modern, responsive UI/UX with dark mode
 
-## Demo
-
-[Add your Netlify link here after deployment]
-
 ## Getting Started
 
 1. `npm install`
